@@ -1,7 +1,11 @@
 #  iCook4U
 [![js-standard-style](https://img.shields.io/badge/code%20style-standard-brightgreen.svg?style=flat)](http://standardjs.com/)
 
-# Created by Alex Le
+## Automated step by step cooking app/food database/meal planner built in React Native
+
+### Created by Alex Le
+
+## :shipit: [Trello Dev Board](https://trello.com/b/Gw0TSZpS)
 
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
