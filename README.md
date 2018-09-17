@@ -5,7 +5,7 @@
 
 ### Created by Alex Le
 
-## :shipit: [Trello Dev Board](https://trello.com/b/Gw0TSZpS)
+# :shipit: [Trello Dev Board](https://trello.com/b/Gw0TSZpS)
 
 * Standard compliant React Native App Utilizing [Ignite](https://github.com/infinitered/ignite)
 
